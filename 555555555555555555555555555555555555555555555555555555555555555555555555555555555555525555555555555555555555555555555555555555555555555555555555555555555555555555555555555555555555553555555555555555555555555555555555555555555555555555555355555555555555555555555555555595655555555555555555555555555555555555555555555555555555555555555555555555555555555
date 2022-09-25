@@ -849,7 +849,7 @@ getgenv().hipzheight = 4
 
 
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/godware123/lol/main/splix"))()
+local library = loadstring(game:HttpGet("https://pastebin.com/raw/PaC24tW9"))()
 
 
 
